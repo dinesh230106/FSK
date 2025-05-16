@@ -1,4 +1,4 @@
-# EX-03.a Name: DINESH KUMAR A (212223060057)
+# EX-03.b Name: DINESH KUMAR A (212223060057)
 # Write a FSK program using Python.
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
